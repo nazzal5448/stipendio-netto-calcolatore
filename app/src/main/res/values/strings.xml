@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Stipendio Netto Calcolatore</string>
+    <string name="calculate">Calculate</string>
+    <string name="history">History</string>
+    <string name="settings">Settings</string>
+    <string name="gross_annual_salary">Gross Annual Salary</string>
+    <string name="region">Region</string>
+    <string name="municipal_tax">Municipal Tax</string>
+    <string name="months">Months</string>
+    <string name="contract_type">Contract Type</string>
+    <string name="permanent">Permanent</string>
+    <string name="apprenticeship">Apprenticeship</string>
+    <string name="inps_rate">INPS Rate</string>
+    <string name="spouse">Spouse</string>
+    <string name="children">Children</string>
+    <string name="calculate_salary">Calculate Salary</string>
+    <string name="annual_net_salary">Annual Net Salary</string>
+    <string name="monthly_net">Monthly Net</string>
+    <string name="inps_contributions">INPS Contributions</string>
+    <string name="gross_irpef">Gross IRPEF</string>
+    <string name="regional_add">Regional Tax</string>
+    <string name="municipal_add">Municipal Tax</string>
+    <string name="language">Lingua</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="legal_disclaimer">Disclaimer Legale</string>
+    <string name="disclaimer_text">QUESTO CALCOLATORE NON RAPPRESENTA UN\'ENTITÀ GOVERNATIVA. Fornisce stime basate sulla normativa fiscale italiana. Fonti ufficiali: Agenzia delle Entrate (https://www.agenziaentrate.gov.it), INPS (https://www.inps.it) e Dipartimento delle Finanze (https://www.finanze.gov.it).</string>
+    
+    <string name="contract_indeterminato">Indeterminato</string>
+    <string name="contract_determinato">Determinato</string>
+    <string name="contract_apprendistato">Apprendistato</string>
+    
+    <string name="bonus_automatico">Automatico</string>
+    <string name="bonus_yes">Forza Sì</string>
+    <string name="bonus_no">Forza No</string>
+    <string name="bonus_subtitle">Bonus €100 (Ex-Renzi)</string>
+    <string name="welfare_label">Welfare / Benefit (€)</string>
+    <string name="app_title">Stipendio Netto</string>
+    <string name="yes">Sì</string>
+    <string name="no">No</string>
+    <string name="show_advanced">Mostra impostazioni avanzate</string>
+    <string name="hide_advanced">Nascondi impostazioni avanzate</string>
+    <string name="inps_percentage_label">PERCENTUALE INPS (%)</string>
+    <string name="results_title">Risultati Calcolo</string>
+    <string name="calculated_on_months">Calcolato su %1$d mensilità</string>
+    <string name="no_history">Nessuna cronologia disponibile</string>
+    <string name="net_monthly_label">Netto Mensile</string>
+    <string name="net_annual_label">Netto Annuo</string>
+</resources>

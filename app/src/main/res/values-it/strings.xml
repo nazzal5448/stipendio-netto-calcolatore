@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Stipendio Netto Calcolatore</string>
+    <string name="calculate">Calcola</string>
+    <string name="history">Storico</string>
+    <string name="settings">Impostazioni</string>
+    <string name="gross_annual_salary">Reddito Annuo Lordo</string>
+    <string name="region">Regione</string>
+    <string name="municipal_tax">Addizionale Com.</string>
+    <string name="months">Mensilità</string>
+    <string name="contract_type">Tipo Contratto</string>
+    <string name="permanent">Indeterminato</string>
+    <string name="apprenticeship">Apprendistato</string>
+    <string name="inps_rate">Aliquota INPS</string>
+    <string name="spouse">Coniuge</string>
+    <string name="children">Figli</string>
+    <string name="calculate_salary">Calcola Stipendio</string>
+    <string name="annual_net_salary">Stipendio Annuo Netto</string>
+    <string name="monthly_net">Netto Mensile</string>
+    <string name="inps_contributions">Contributi INPS</string>
+    <string name="gross_irpef">IRPEF Lorda</string>
+    <string name="regional_add">Add. Regionale</string>
+    <string name="municipal_add">Add. Comunale</string>
+    <string name="language">Lingua</string>
+    <string name="privacy_policy">Informativa sulla Privacy</string>
+    <string name="legal_disclaimer">Disclaimer Legale</string>
+    <string name="disclaimer_text">I calcoli forniti da questa applicazione sono puramente indicativi e basati sulle normative fiscali italiane vigenti (IRPEF, addizionali regionali e comunali). I risultati non costituiscono una consulenza professionale né garantiscono l\'esattezza della busta paga reale, che può variare in base a detrazioni specifiche, assegni familiari o bonus aziendali non contemplati. Si consiglia di consultare un consulente del lavoro per conteggi ufficiali.</string>
+</resources>

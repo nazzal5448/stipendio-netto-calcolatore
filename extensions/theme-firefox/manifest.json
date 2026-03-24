@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+  "version": "1.0.0",
+  "name": "Stipendio Netto Professional Theme",
+  "theme": {
+    "colors": {
+      "frame": "#0B1F3B",
+      "tab_background_text": "#A0AEC0",
+      "toolbar": "#1F3C68",
+      "toolbar_text": "#FFFFFF",
+      "toolbar_field": "#FFFFFF",
+      "toolbar_field_text": "#121A20",
+      "tab_line": "#FF7A18",
+      "popup": "#FFFFFF",
+      "popup_text": "#121A20"
+    }
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "stipendio-netto-theme@nbk.com"
+    }
+  }
+}

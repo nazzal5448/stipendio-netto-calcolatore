@@ -1,0 +1,218 @@
+/* Premium Styling for Stipendio Netto Extension */
+
+:root {
+    --primary-navy: #0B1F3B;
+    --secondary-blue: #1F3C68;
+    --accent-orange: #FF7A18;
+    --bg-light: #F8FAFC;
+    --text-dark: #121A20;
+    --text-gray: #64748B;
+    --card-white: #FFFFFF;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    width: 350px;
+    background-color: var(--bg-light);
+    color: var(--text-dark);
+    overflow-x: hidden;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    background-color: var(--primary-navy);
+    color: white;
+    padding: 16px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.logo {
+    width: 32px;
+    height: 32px;
+    border-radius: 6px;
+}
+
+h1 {
+    font-size: 18px;
+    margin: 0;
+    font-weight: 700;
+}
+
+main {
+    padding: 16px;
+}
+
+.input-section {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.input-group {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.row {
+    display: flex;
+    gap: 12px;
+}
+
+.row .input-group {
+    flex: 1;
+}
+
+label {
+    font-size: 11px;
+    font-weight: 600;
+    color: var(--text-gray);
+    text-transform: uppercase;
+}
+
+input, select {
+    padding: 10px;
+    border: 1px solid #E2E8F0;
+    border-radius: 8px;
+    font-size: 14px;
+    background-color: white;
+    transition: border-color 0.2s;
+    width: 100%;
+}
+
+input:focus, select:focus {
+    outline: none;
+    border-color: var(--accent-orange);
+}
+
+.advanced-settings {
+    margin-top: 8px;
+}
+
+summary {
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--secondary-blue);
+    cursor: pointer;
+    padding: 4px 0;
+}
+
+.advanced-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 8px;
+    padding: 12px;
+    background: #EDF2F7;
+    border-radius: 8px;
+    margin-top: 4px;
+    width: 100%;
+}
+
+.input-group-check {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    grid-column: span 2;
+}
+
+button {
+    background-color: var(--accent-orange);
+    color: white;
+    border: none;
+    padding: 14px;
+    border-radius: 12px;
+    font-size: 16px;
+    font-weight: 700;
+    cursor: pointer;
+    margin-top: 8px;
+    transition: transform 0.1s;
+    box-shadow: 0 4px 12px rgba(255, 122, 24, 0.2);
+}
+
+button:active {
+    transform: scale(0.98);
+}
+
+.results-section {
+    margin-top: 20px;
+    animation: slideIn 0.3s ease-out;
+}
+
+@keyframes slideIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+.hidden {
+    display: none;
+}
+
+.result-card.primary {
+    background-color: var(--primary-navy);
+    color: white;
+    padding: 20px;
+    border-radius: 16px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 0 4px 15px rgba(11, 31, 59, 0.2);
+    margin-bottom: 12px;
+}
+
+.result-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+}
+
+.result-item {
+    background: white;
+    padding: 12px;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.result-item .label {
+    font-size: 10px;
+    color: var(--text-gray);
+    margin-bottom: 4px;
+}
+
+.result-item .value-small {
+    font-weight: 700;
+    color: var(--primary-navy);
+}
+
+.result-card .label {
+    font-size: 12px;
+    color: #A0AEC0;
+}
+
+.result-card .value {
+    font-size: 32px;
+    font-weight: 800;
+    color: var(--accent-orange);
+    margin-top: 4px;
+}
+
+footer {
+    padding: 12px;
+    text-align: center;
+    font-size: 10px;
+    color: var(--text-gray);
+    border-top: 1px solid #E2E8F0;
+}

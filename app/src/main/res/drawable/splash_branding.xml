@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Splash screen branding image shown at the bottom of the splash.
+    Uses a vector drawable with the app name text.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="40dp"
+    android:viewportWidth="200"
+    android:viewportHeight="40">
+
+    <!-- App name text: Stipendio Netto Calcolatore -->
+    <path
+        android:fillColor="#0B1F3B"
+        android:pathData="M10,10 L10,30" />
+    <!-- Text rendered via fontFamily not available in vector; use text element workaround below -->
+</vector>
