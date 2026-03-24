@@ -1,0 +1,22 @@
+Stipendio Netto Calcolatore ti aiuta a stimare in modo semplice e veloce il tuo stipendio netto in Italia partendo dalla RAL (Retribuzione Annua Lorda). Inserisci i dati principali e ottieni una stima del netto annuale e del netto mensile, con un riepilogo chiaro di IRPEF, contributi INPS e addizionali.
+
+**DISCLAIMER LEGALE:**
+Questa applicazione è uno strumento di stima indipendente e NON rappresenta un\'entità governativa. Non è affiliata al Governo Italiano, all\'Agenzia delle Entrate o all\'INPS. Per calcoli fiscali ufficiali, consultare un professionista qualificato o i portali governativi ufficiali.
+
+**Fonti Ufficiali per le Informazioni Fiscali:**
+- Sito Ufficiale: https://stipendionettocalcolatore.it/
+- Aliquote IRPEF: https://www.agenziaentrate.gov.it
+- Contributi INPS: https://www.inps.it
+- Addizionali Regionali/Comunali: https://www.finanze.gov.it
+
+Funzionalità principali:
+- Calcolo dello stipendio netto da RAL
+- Supporto per 12, 13 e 14 mensilità
+- Stima di netto annuale e mensile
+- Calcolo con contributi INPS
+- Stima IRPEF per scaglioni
+- Addizionali regionali e comunali
+- Selezione della regione
+- Storico dei calcoli
+- Supporto in italiano e inglese
+- Funzionamento offline

@@ -1,0 +1,22 @@
+Stipendio Netto Calcolatore helps you quickly and easily estimate your net salary in Italy starting from your RAL (Gross Annual salary). Enter the main data and get an estimate of the annual net and monthly net, with a clear summary of IRPEF, INPS contributions and additional taxes.
+
+**DISCLAIMER:**
+This app is an independent estimation tool and does NOT represent any government entity. It is not affiliated with the Italian Government, Agenzia delle Entrate, or INPS. For official tax calculations, please consult a qualified professional or the official government portals.
+
+**Official Sources for Tax Information:**
+- Official Website: https://stipendionettocalcolatore.it/
+- IRPEF Rates: https://www.agenziaentrate.gov.it
+- INPS Contributions: https://www.inps.it
+- Regional/Municipal Taxes: https://www.finanze.gov.it
+
+Main features:
+- Net salary calculation from RAL
+- Support for 12, 13 and 14 months
+- Annual and monthly net estimate
+- Calculation with INPS contributions
+- IRPEF estimation by brackets
+- Regional and municipal additions
+- Region selection
+- Calculation history
+- Support in Italian and English
+- Offline functioning
